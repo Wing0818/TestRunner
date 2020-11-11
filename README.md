@@ -1,2 +1,2 @@
 # TestRunner
-this is a framework for testing 
+this is a library  for testing 
